@@ -4,7 +4,9 @@ This project presents a deep learning model to detect lung cancer from CT scan i
 
 ## Model variants:
 VGG-16 MODEL.ipynb
+
 V3 MODEL.ipynb (Inception V3)
+
 RESNET - 50 MODEL.ipynb
 
 ## Streamlit Web App:
