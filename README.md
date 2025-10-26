@@ -16,4 +16,4 @@ The app.py file is a Streamlit-based web application that enables real-time CT s
 
 train_test_split.ipynb: Data preprocessing and splitting workflow
 
-CNN MODEL.ipynb: CNN model implementation
+CNN MODEL.ipynb: CNN model implementation.
